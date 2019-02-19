@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoApp</string>
+    <string name="texto_pregunta">¿La península de Yucatán se encuentra la norte de México?</string>
+    <string name="texto_boton_cierto">Cierto</string>
+    <string name="texto_boton_falso">Falso</string>
+    <string name="texto_boton_anterior">Anterior</string>
+    <string name="texto_boton_siguiente">Siguiente</string>
+    <string name="texto_respuesta_correcta">¡Correcto!</string>
+    <string name="texto_respuesta_incorrecta">¡Incorrecto!</string>
+    <string name="texto_pregunta_1">¿La península de Yucatán se encuentra la norte de México?</string>
+    <string name="texto_pregunta_2">Nuestro Sistema Solar se encuentra en galaxia Vía Láctea</string>
+    <string name="texto_pregunta_3">El Océano más grande de nuestro planeta es el Océano Pacífico</string>
+    <string name="texto_pregunta_4">Los vientos alisios soplan del noreste al suroeste</string>
+    <string name="texto_pregunta_5">El estado más grande de nuestra República Mexicana es Sonora</string>
+</resources>
